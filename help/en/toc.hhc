@@ -1,0 +1,455 @@
+<HTML>
+ <HEAD>
+  <META http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <!-- Sitemap 1.0 -->
+ </HEAD>
+<BODY>
+ <OBJECT type="text/site properties">
+  <PARAM name="Window Styles" value="0x800027">
+  <PARAM name="ImageType" value="Folder">
+ </OBJECT>
+<UL>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="CDSlow GPL 3+">
+  <PARAM name="Local" value="index.html">
+  </OBJECT>
+ <UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="MAIN FEATURES">
+   <PARAM name="Local" value="index.html#ABOUT">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="CONTACT INFORMATION">
+   <PARAM name="Local" value="index.html#ME">
+   </OBJECT>
+ </UL>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="CDSlow - User's guide">
+  <PARAM name="Local" value="z01-manual.html">
+  </OBJECT>
+ <UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="RIGHT mouse button">
+   <PARAM name="Local" value="z01-manual.html#rbutton">
+   </OBJECT>
+  <UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="About CDSlow">
+    <PARAM name="Local" value="z01-manual.html#01">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Help">
+    <PARAM name="Local" value="z01-manual.html#02">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Drive information - display the list of detected optical driveswith their capabilities.">
+    <PARAM name="Local" value="z01-manual.html#03">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Options">
+    <PARAM name="Local" value="z01-manual.html#04">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Reset configuration">
+    <PARAM name="Local" value="z01-manual.html#05">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Detect drives">
+    <PARAM name="Local" value="z01-manual.html#06">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Drive list">
+    <PARAM name="Local" value="z01-manual.html#07">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Ignored">
+    <PARAM name="Local" value="z01-manual.html#08">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Exit">
+    <PARAM name="Local" value="z01-manual.html#09">
+    </OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="LEFT mouse button">
+   <PARAM name="Local" value="z01-manual.html#lbutton">
+   </OBJECT>
+  <UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Autorun">
+    <PARAM name="Local" value="z01-manual.html#10">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Explorer">
+    <PARAM name="Local" value="z01-manual.html#11">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Browse">
+    <PARAM name="Local" value="z01-manual.html#12">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="The &quot;Autorun&quot;, &quot;Explorer&quot; and &quot;Browse&quot; prerequisites">
+    <PARAM name="Local" value="z01-manual.html#req">
+    </OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="CDSlow options window">
+   <PARAM name="Local" value="z01-manual.html#settings">
+   </OBJECT>
+  <UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Interface settings">
+    <PARAM name="Local" value="z01-manual.html#interface">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Use short drive names">
+     <PARAM name="Local" value="z01-manual.html#13">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Separate eject/close buttons">
+     <PARAM name="Local" value="z01-manual.html#14">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Drive name above speed list">
+     <PARAM name="Local" value="z01-manual.html#15">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Separate menu for each drive">
+     <PARAM name="Local" value="z01-manual.html#16">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Eject password">
+     <PARAM name="Local" value="z01-manual.html#17">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Show &quot;Browse&quot; command">
+     <PARAM name="Local" value="z01-manual.html#18">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Show &quot;Explorer&quot; command">
+     <PARAM name="Local" value="z01-manual.html#19">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Show &quot;Autorun&quot; command">
+     <PARAM name="Local" value="z01-manual.html#20">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Indicate disk status with icon color">
+     <PARAM name="Local" value="z01-manual.html#21">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Indicate tray status with icon color">
+     <PARAM name="Local" value="z01-manual.html#22">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="System settings">
+    <PARAM name="Local" value="z01-manual.html#system">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Enable autorun (all users)">
+     <PARAM name="Local" value="z01-manual.html#23">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Enable autorun (this user)">
+     <PARAM name="Local" value="z01-manual.html#24">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Enable audio autoplay">
+     <PARAM name="Local" value="z01-manual.html#25">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Other">
+    <PARAM name="Local" value="z01-manual.html#misc">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Show unknown drives">
+     <PARAM name="Local" value="z01-manual.html#26">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Force disk content refresh">
+     <PARAM name="Local" value="z01-manual.html#27">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Save settings to file">
+     <PARAM name="Local" value="z01-manual.html#28">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Program start">
+    <PARAM name="Local" value="z01-manual.html#29">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Start automatically">
+     <PARAM name="Local" value="z01-manual.html#30">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Restore speed and exit">
+     <PARAM name="Local" value="z01-manual.html#31">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Hide icon">
+     <PARAM name="Local" value="z01-manual.html#32">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Close trays">
+     <PARAM name="Local" value="z01-manual.html#33">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Shutdown">
+    <PARAM name="Local" value="z01-manual.html#34">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Eject disks">
+     <PARAM name="Local" value="z01-manual.html#35">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Close trays">
+     <PARAM name="Local" value="z01-manual.html#36">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Show reminder">
+     <PARAM name="Local" value="z01-manual.html#37">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Delay (seconds):">
+     <PARAM name="Local" value="z01-manual.html#38">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Timer">
+    <PARAM name="Local" value="z01-manual.html#timer">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="On">
+     <PARAM name="Local" value="z01-manual.html#39">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Close tray after _ seconds">
+     <PARAM name="Local" value="z01-manual.html#40">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Drive access method">
+    <PARAM name="Local" value="z01-manual.html#41">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="SPTI">
+     <PARAM name="Local" value="z01-manual.html#spti">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="ASPI">
+     <PARAM name="Local" value="z01-manual.html#aspi">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Disable ASPI">
+     <PARAM name="Local" value="z01-manual.html#42">
+     </OBJECT>
+   </UL>
+  </UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Drive options window">
+   <PARAM name="Local" value="z01-manual.html#drive">
+   </OBJECT>
+  <UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Drive options">
+    <PARAM name="Local" value="z01-manual.html#drive.options">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Ignore this drive">
+     <PARAM name="Local" value="z01-manual.html#43">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Short name">
+     <PARAM name="Local" value="z01-manual.html#short.name">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Restore speed">
+    <PARAM name="Local" value="z01-manual.html#restore.speed">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="At program start">
+     <PARAM name="Local" value="z01-manual.html#on.start">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="At system resume">
+     <PARAM name="Local" value="z01-manual.html#on.resume">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="On disk change">
+     <PARAM name="Local" value="z01-manual.html#on.change">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="On tray close">
+     <PARAM name="Local" value="z01-manual.html#on.close">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="When playing audio">
+     <PARAM name="Local" value="z01-manual.html#when.audio">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Only when disk present">
+     <PARAM name="Local" value="z01-manual.html#only.with.disk">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Ignore current speed">
+     <PARAM name="Local" value="z01-manual.html#ignore.speed">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="By timer">
+     <PARAM name="Local" value="z01-manual.html#on.timer">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Read data from disk after speed is set">
+     <PARAM name="Local" value="z01-manual.html#force.read">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Hot keys">
+    <PARAM name="Local" value="z01-manual.html#hotkeys">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Medium type">
+    <PARAM name="Local" value="z01-manual.html#disk.type">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Speed control method">
+    <PARAM name="Local" value="z01-manual.html#speed.method">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Auto detect">
+     <PARAM name="Local" value="z01-manual.html#speed.method.auto">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="SET SPEED">
+     <PARAM name="Local" value="z01-manual.html#speed.method.speed">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="SET STREAMING">
+     <PARAM name="Local" value="z01-manual.html#speed.method.streaming">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Detect speeds">
+    <PARAM name="Local" value="z01-manual.html#scan">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Fast scan">
+     <PARAM name="Local" value="z01-manual.html#fast">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Full scan">
+     <PARAM name="Local" value="z01-manual.html#full">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Measure speed">
+     <PARAM name="Local" value="z01-manual.html#measure">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Speed list">
+    <PARAM name="Local" value="z01-manual.html#speed.list">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Speed">
+    <PARAM name="Local" value="z01-manual.html#speed.edit">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Add button">
+     <PARAM name="Local" value="z01-manual.html#add">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Delete button">
+     <PARAM name="Local" value="z01-manual.html#del">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Delete all button">
+     <PARAM name="Local" value="z01-manual.html#del.all">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Service">
+    <PARAM name="Local" value="z01-manual.html#service">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Divide speed menu into groups">
+     <PARAM name="Local" value="z01-manual.html#deep.menu">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Lock tray">
+     <PARAM name="Local" value="z01-manual.html#lock">
+     </OBJECT>
+   </UL>
+  </UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Command line">
+   <PARAM name="Local" value="z01-manual.html#cmdline">
+   </OBJECT>
+  <UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Examples">
+    <PARAM name="Local" value="z01-manual.html#cmd.examples">
+    </OBJECT>
+  </UL>
+ </UL>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="Installer options">
+  <PARAM name="Local" value="z02-installer.html">
+  </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="CDSlow changelog">
+  <PARAM name="Local" value="z03-changelog.html">
+  </OBJECT>
+ <UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Changes in version 5.2">
+   <PARAM name="Local" value="z03-changelog.html#5.2">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Changes in version 5.1">
+   <PARAM name="Local" value="z03-changelog.html#5.1">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Changes in version 5.0">
+   <PARAM name="Local" value="z03-changelog.html#5.0">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Version 4.0">
+   <PARAM name="Local" value="z03-changelog.html#4.0">
+   </OBJECT>
+ </UL>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="Licenses">
+  <PARAM name="Local" value="z04-licenses.html">
+  </OBJECT>
+ <UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="CDSlow license">
+   <PARAM name="Local" value="z04-licenses.html#license.cdslow">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="CDSlow documentation license">
+   <PARAM name="Local" value="z04-licenses.html#license.doc">
+   </OBJECT>
+ </UL>
+</UL>
+
+</BODY>
+</HTML>

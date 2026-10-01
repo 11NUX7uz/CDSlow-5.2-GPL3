@@ -1,0 +1,9 @@
+[OPTIONS]
+Compiled file=@CHM_OUTPUT@
+Contents file=toc.hhc
+Default topic=index.html
+Title=CDslow Help
+Language=0x0419
+
+[FILES]
+@CHM_FILE_LIST@

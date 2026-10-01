@@ -1,0 +1,367 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+
+<TITLE>CDSlow - User's guide</TITLE>
+</HEAD>
+<BODY>
+
+
+              <H1 ALIGN="center">CDSlow - User's guide</H1>
+<HR>
+<P>
+To access the program menu use this <IMG SRC="images/taskxp.gif" ALT="CDSlow"> icon
+in the taskbar notification area. The icon may change its appearance in the following
+situations:</P>
+<TABLE>
+<TR>
+<TD><IMG SRC="images/task_greenxp.gif" ALT="CDSlow(green)"></TD>
+<TD> - disk inserted;</TD>
+</TR><TR>
+<TD><IMG SRC="images/task_redxp.gif" ALT="CDSlow(red)"></TD>
+<TD> - tray opened;</TD>
+</TR><TR>
+<TD><IMG SRC="images/questionxp.gif" ALT="'?'"></TD>
+<TD> - no drives found;</TD>
+</TR><TR>
+<TD><IMG SRC="images/exclamationxp.gif" ALT="'!'"></TD>
+<TD> - ASPI or SPTI errors detected;</TD>
+</TR><TR>
+<TD><IMG SRC="images/exclamationxp.gif" ALT="'!'"></TD>
+<TD> (blinking) - tray will be closed in less then 3 seconds;</TD>
+</TR><TR>
+<TD><IMG SRC="images/waitxp.gif" ALT="'clock'"></TD>
+<TD> - program busy.</TD>
+</TR>
+</TABLE>
+
+<HR>
+<H2><A NAME="rbutton">RIGHT mouse button</A> brings up the configuration menu</H2>
+<P>
+<A NAME="01"><B>About CDSlow</B></A> - display the version information.</P>
+<P>
+<A NAME="02"><B>Help</B></A> - open the documentation.</P>
+<P>
+<A NAME="03"><B>Drive information</B> - display the list of detected optical drives
+with their capabilities.</A></P>
+<P>
+<A NAME="04"><B>Options</B></A> -
+<A HREF="#settings">Options window</A></P>
+<P>
+<A NAME="05"><B>Reset configuration</B></A> - delete the program settings
+from the registry.</P>
+<P>
+<A NAME="06"><B>Detect drives</B></A> - refresh the optical drives list.</P>
+<P>
+<A NAME="07"><B>Drive list</B></A> - invoke
+<A HREF="#drive">Drive options window</A></P>
+<P>
+<A NAME="08"><B>Ignored</B></A> - the list of optical drives where the option
+"Ignore this drive" is enabled.</P>
+<P>
+<A NAME="09"><B>Exit</B></A> - exit.</P>
+
+<HR>
+<H2><A NAME="lbutton">LEFT mouse button</A> brings up drive control menu</H2>
+<P>
+The check mark <IMG SRC="images/v.gif" ALT=""> shows selected speed.</P>
+<P>
+The <IMG SRC="images/cspeed12.gif" ALT="'&gt;&gt;'"> symbol marks current speed.</P>
+<P>
+The <IMG SRC="images/ejects.gif" ALT="'up'"> symbol ejects tray.</P>
+<P>
+The <IMG SRC="images/closes.gif" ALT="'down'"> symbol closes tray.</P>
+<P>
+The <B><A NAME="10">Autorun</A></B> command launches <B>AUTORUN.INF</B>.</P>
+<P>
+The <B><A NAME="11">Explorer</A></B> command opens the disk content in Windows Explorer.</P>
+<P>
+The <B><A NAME="12">Browse</A></B> command opens the disk content window.</P>
+
+<H3><A NAME="req">The "Autorun", "Explorer" and "Browse" prerequisites</A></H3>
+<P>
+For <I>Windows 95/98/ME</I> updated <B>ASPI</B> version is required
+(recomended version is <I>Adaptec ASPI 4.60</I>).
+For <I>Windows NT-10</I> you need to use <B>SPTI</B>
+drive access method.</P>
+
+<HR>
+<H2><A NAME="settings">CDSlow options window</A></H2>
+<CENTER><IMG SRC="images/options_en.gif" ALT=""></CENTER>
+
+<H3><A NAME="interface">Interface settings</A></H3>
+<P>
+<A NAME="13"><B>Use short drive names</B></A>
+- display the short drive names in the speed menu.</P>
+<P>
+<A NAME="14"><B>Separate eject/close buttons</B></A>
+- show the separate button for the tray close action.</P>
+<P>
+<A NAME="15"><B>Drive name above speed list</B></A>
+- display the drive name above the speed list. The drive name is shown
+below the speed list by default.</P>
+<P>
+<A NAME="16"><B>Separate menu for each drive</B></A>
+- show only the drive names in the speed menu and display a speed list
+only after the drive name is selected.</P>
+<P>
+<A NAME="17"><B>Eject password</B></A>
+- protect the eject action by password. If the drive option <B>"Lock tray"</B> is on,
+password will be required for opening a tray.</P>
+<P>
+<B><A NAME="18">Show "Browse" command</A></B>
+- add <B>"Browse"</B> command to the speed menu (see <A HREF="#req">prerequisites</A>).</P>
+<P>
+<B><A NAME="19">Show "Explorer" command</A></B>
+- add <B>"Explorer"</B> command to the speed menu (see <A HREF="#req">prerequisites</A>).</P>
+<P>
+<B><A NAME="20">Show "Autorun" command</A></B>
+- add <B>"Autorun"</B> command to the speed menu (see <A HREF="#req">prerequisites</A>).</P>
+<P>
+<A NAME="21"><B>Indicate disk status with icon color</B></A>
+- change the <B>CDSlow</B> icon color to green when a disk present
+in the optical drive.</P>
+<P>
+<A NAME="22"><B>Indicate tray status with icon color</B></A>
+- change the <B>CDSlow</B> icon color to red when a tray is open.
+Don't forget to <A HREF="#timer">set "Timer" option to "On"</A>.</P>
+
+<H3><A NAME="system">System settings</A></H3>
+<P>
+<A NAME="23"><B>Enable autorun (all users)</B></A>
+- enable <I>AUTORUN.INF</I> processing for all users.
+<B>Administrator</B> rights is required for changing this option.</P>
+<P>
+<A NAME="24"><B>Enable autorun (this user)</B></A>
+- enable <I>AUTORUN.INF</I> processing for current user.
+Autorun for all users also must be enabled for this option to take effect.
+<B>Administrator</B> rights is required for changing this option.</P>
+<P>
+<A NAME="25"><B>Enable audio autoplay</B></A> - has no effect on
+<I>Windows XP</I> and newer windows versions.</P>
+
+<H3><A NAME="misc">Other</A></H3>
+<P>
+<A NAME="26"><B>Show unknown drives</B></A>
+- include a drive in the list even if the drive model can't be detected.</P>
+<P>
+<A NAME="27"><B>Force disk content refresh</B></A>
+- may be useful in <I>Windows 95/98/ME</I> if the drive don't refersh a file list
+after a disk change.</P>
+<P>
+<A NAME="28"><B>Save settings to file</B></A>
+- export setting to a <I>.reg</I> file.</P>
+
+<H3><A NAME="29">Program start</A></H3>
+<P>
+<A NAME="30"><B>Start automatically</B></A>
+- start the program with Windows.</P>
+<P>
+<A NAME="31"><B>Restore speed and exit</B></A>
+- set the speeds for the all drives once and exit.</P>
+<P>
+<A NAME="32"><B>Hide icon</B></A>
+- don't show a program icon in the notification area. Hot keys will still work in this mode.</P>
+<P>
+<B><A NAME="33">Close trays</A></B>
+- close all drive trays when the program is started.</P>
+
+<H3><A NAME="34">Shutdown</A></H3>
+<P>
+<B><A NAME="35">Eject disks</A></B>
+- eject all disks when the Windows session is finished.</P>
+<P>
+<B><A NAME="36">Close trays</A></B>
+- close all open trays when the Windows session is finished.</P>
+<P>
+<B><A NAME="37">Show reminder</A></B>
+- show a reminder message before ejecting or closing the trays.</P>
+<P>
+<A NAME="38"><B>Delay (seconds):</B></A>
+- a delay before the trays autoclose. On Windows XP maximum delay
+may be increased using registry key
+<I>HKEY_CURRENT_USER\Control&nbsp;Panel\Desktop\HungAppTimeout</I>
+(it contains value in milliseconds).</P>
+
+<H3><A NAME="timer">Timer</A></H3>
+<P>
+<B><A NAME="39">On</A></B> - test the drives status every 5 seconds, also
+make available options <B>"Close tray after _ seconds"</B> and "Restore speed"
+<B>"By timer"</B>.</P>
+<P>
+<A NAME="40"><B>Close tray after _ seconds</B></A>
+- an open tray will be automatically closed after the given time interval.
+The minimum interval value is 3 seconds.</P>
+
+<H3><A NAME="41">Drive access method</A></H3>
+<P>
+The <B>"<A NAME="spti">SPTI</A>"</B> access method is for <I>Windows NT</I> and newer.
+On <I>Windows 2000 and XP</I> you will need <B>Administrator</B> rights
+to use this method.</P>
+<P>
+To enable access for limited user accounts
+on <I>Windows 2000 and XP</I> use one of these methods:</P>
+<UL>
+    <LI>Use <B>Nero BurnRights</B> software from Nero;
+    <LI>Use <B>Local Security Policy</B> <I>(Control Panel - Administrative
+        Tools - Local Security Policy)</I> to enable parameter:
+        <I>Local Policies - Security Options - Restrict CD-ROM access
+        to locally logged-on user only.</I> <B>CAUTION!</B>This method may
+        cause problems with <I>Windows Installer.</I>
+</UL>
+<P>
+The <B>"<A NAME="aspi">ASPI</A>"</B> method is for <I>Windows 95/98/ME</I>, but may be used on
+<I>Windows NT/2000/XP</I> with a special driver. Also the <I>Adaptec ASPI</I>
+driver allows the non-privileged users to access the optical drives on
+<I>Windows 2000 and XP.</I></P>
+<P>
+<A NAME="42"><B>Disable ASPI</B></A>
+- don't try to initialize and use the <B>ASPI</B> driver even if it is installed.</P>
+
+<HR>
+<H2><A NAME="drive">Drive options window</A></H2>
+<CENTER><IMG SRC="images/drive_en.gif" ALT=""></CENTER>
+<H3><A NAME="drive.options">Drive options</A></H3>
+<P>
+<A NAME="43"><B>Ignore this drive</B></A>
+- don't control speed for this drive.</P>
+<P>
+<A NAME="short.name"><B>Short name</B></A>
+- set custom short name.</P>
+
+<H3><A NAME="restore.speed">Restore speed</A></H3>
+<P>
+<A NAME="on.start"><B>At program start</B></A>
+- restore the speed for this drive when <B>CDSlow</B> is started.</P>
+<P>
+<A NAME="on.resume"><B>At system resume</B></A>
+- restore the speed for this drive when the system returned from the <I>Hibernate</I> or
+<I>Suspend To RAM</I> mode.</P>
+<P>
+<A NAME="on.change"><B>On disk change</B></A>
+- restore the speed for this drive when a new disk is inserted.</P>
+<P>
+<A NAME="on.close"><B>On tray close</B></A>
+- restore the speed for this drive when a tray is closed from the program menu
+or by pressing a hot key.</P>
+<P>
+<A NAME="when.audio"><B>When playing audio</B></A>
+- restore the speed for this drive when an audio disk is played in "analog" mode.
+Should not be required.</P>
+<P>
+<A NAME="only.with.disk"><B>Only when disk present</B></A>
+- don't set the drive speed if no disk inserted.</P>
+<P>
+<A NAME="ignore.speed"><B>Ignore current speed</B></A>
+- set the speed even if the drive reports the current speed as low.</P>
+<P>
+<A NAME="on.timer"><B>By timer</B></A>
+- restore the speed for this drive within regular time intervals. You need 
+<A HREF="#timer">set "Timer" "On"</A> in the program options,
+to unlock this option.</P>
+<P>
+<B><A NAME="force.read">Read data from disk after speed is set</A></B>
+- read some data sectors from a disk after aplying speed setting.
+May force the instant speed change.</P>
+
+<H3><A NAME="hotkeys">Hot keys</A></H3>
+<P>
+To include the <IMG SRC="images/winlogo.gif" ALT="Win"> key into a combination,
+set a checkmark near the corresponding option.</P>
+
+<H3><A NAME="disk.type">Medium type</A></H3>
+<P>
+Choose a medium type for the next groups of setting.</P>
+
+<H3><A NAME="speed.method">Speed control method</A></H3>
+<P>
+The <B><A NAME="speed.method.auto">Auto detect</A></B> method: the program will detect best method
+for this drive automatically.</P>
+<P>
+The <B><A NAME="speed.method.speed">SET SPEED</A></B> method: send the <I>SET CD SPEED</I> command to a drive.
+This method is used by the most drives.</P>
+<P>
+The <B><A NAME="speed.method.streaming">SET STREAMING</A></B> method: send <I>SET STREAMING</I> command to a drive.
+This method is used f.e. for the <B>DVD</B> type disks in the <I>NEC</I> drives.</P>
+
+<H3><A NAME="scan">Detect speeds</A></H3>
+<P>
+Insert a ROM data disk in the drive before using this commands
+if you want to get a correct speed list. Don't use the R or RW disks.
+<P>
+<A NAME="fast"><B>Fast</B> scan</A>
+- use this method for the "good" drives.</P>
+<P>
+<A NAME="full"><B>Full</B> scan</A>
+- try to deal with the various strange drive bahavior.</P>
+<P>
+<A NAME="measure"><B>Measure</B> speed</A>
+- don't trust the current drive speed value, meassure the real data transfer rate
+instead.</P>
+
+<H3><A NAME="speed.list">Speed list</A></H3>
+<P>
+The speed list for the current medium type.</P>
+<H3><A NAME="speed.edit">Speed</A></H3>
+<P>
+The buttons for a list editing.</P>
+<P>
+The <A NAME="add"><B>Add</B> button</A>
+- add a new speed value to the list.</P>
+<P>
+The <A NAME="del"><B>Delete</B> button</A>
+- delete the seleted speed value from the list.</P>
+<P>
+The <A NAME="del.all"><B>Delete all</B> button</A>
+- clear the list.</P>
+
+<H3><A NAME="service">Service</A></H3>
+<P>
+<A NAME="deep.menu"><B>Divide speed menu into groups</B></A>
+- use this option if the speed list is too long.
+</P>
+<P>
+<A NAME="lock"><B>Lock tray</B></A>
+- disable the hardware eject button.</P>
+<P>
+
+<HR>
+<H2><A NAME="cmdline">Command line</A></H2>
+<P>
+<B>CDSlow</B> can control optical drives not only with graphical
+interface but also from command line. You can use this command line
+switches:</P>
+<UL>
+<LI><CODE>/set [drive name][:index]=speed</CODE> — set given speed. Drive name
+may be specified as full name, short name or drive letter. If there is multiple
+drives with the same name, you can add numeric index to select one. If drive name
+is not provided, speed setting will be applied to all drives. Speed may be
+specified as a number or as special value <CODE>min</CODE> or <CODE>max</CODE>.
+<LI><CODE>/eject [drive name][:index]</CODE> — open tray.
+<LI><CODE>/close [drive name][:index]</CODE> — close tray.
+<LI><CODE>/exit</CODE> — set configured speed for all drives and exit.
+<LI><CODE>/hide</CODE> — hide taskbar icon. You can contorl running program
+with hot keys.
+<LI><CODE>/restart</CODE> — restart. Replace running program by new instance.
+<LI><CODE>/log</CODE> — write debug log.
+</UL>
+<H3><A NAME="cmd.examples">Examples</A></H3>
+<P>
+<CODE>cdslow-en.exe /set min</CODE> — set minimal speed for all drives and exit.</P>
+<P>
+<CODE>cdslow-en.exe /set D=8</CODE> — set speed 8x for drive D: and exit.</P>
+<P>
+<CODE>cdslow-en.exe /set ATAPI=max</CODE> — set maximal speed for 'ATAPI' drive
+and exit.</P>
+<P>
+<CODE>cdslow-en.exe /eject "ATAPI    iHAS124   C      LL0E":2</CODE> — open
+second 'ATAPI    iHAS124   C      LL0E' drive tray and exit.</P>
+
+<HR>
+<P>(C) Vadim Druzhin</P>
+<P>22 February 2021</P>
+
+</BODY>
+</HTML>

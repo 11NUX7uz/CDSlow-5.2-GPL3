@@ -1,0 +1,555 @@
+<HTML>
+ <HEAD>
+  <META http-equiv="Content-Type" content="text/html; charset=windows-1251">
+  <!-- Sitemap 1.0 -->
+ </HEAD>
+<BODY>
+ <OBJECT type="text/site properties">
+  <PARAM name="Window Styles" value="0x800027">
+  <PARAM name="ImageType" value="Folder">
+ </OBJECT>
+<UL>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="CDSlow GPL 3+">
+  <PARAM name="Local" value="index.html">
+  </OBJECT>
+ <UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="ОСНОВНЫЕ ВОЗМОЖНОСТИ ПРОГРАММЫ">
+   <PARAM name="Local" value="index.html#ABOUT">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="МОИ КООРДИНАТЫ">
+   <PARAM name="Local" value="index.html#ME">
+   </OBJECT>
+ </UL>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="Работа с программой CDSlow">
+  <PARAM name="Local" value="z01-manual.html">
+  </OBJECT>
+ <UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="ПРАВАЯ кнопка мыши вызывает меню настроек">
+   <PARAM name="Local" value="z01-manual.html#rbutton">
+   </OBJECT>
+  <UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Пункт меню &quot;О программе&quot;">
+    <PARAM name="Local" value="z01-manual.html#01">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Пункт меню &quot;Справка&quot;">
+    <PARAM name="Local" value="z01-manual.html#02">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Пункт меню &quot;Информация&quot;">
+    <PARAM name="Local" value="z01-manual.html#03">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Пункт меню &quot;Настройки&quot;">
+    <PARAM name="Local" value="z01-manual.html#04">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Пункт меню &quot;Очистить конфигурацию&quot;">
+    <PARAM name="Local" value="z01-manual.html#05">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Команда &quot;Найти приводы&quot;">
+    <PARAM name="Local" value="z01-manual.html#06">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Список приводов">
+    <PARAM name="Local" value="z01-manual.html#07">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Подменю &quot;Игнорируемые&quot;">
+    <PARAM name="Local" value="z01-manual.html#08">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Команда &quot;Выход&quot;">
+    <PARAM name="Local" value="z01-manual.html#09">
+    </OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="ЛЕВАЯ кнопка мыши">
+   <PARAM name="Local" value="z01-manual.html#lbutton">
+   </OBJECT>
+  <UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Пункт меню &quot;Автозапуск&quot;">
+    <PARAM name="Local" value="z01-manual.html#10">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Пункт меню &quot;Проводник&quot;">
+    <PARAM name="Local" value="z01-manual.html#11">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Пункт меню &quot;Открыть&quot;">
+    <PARAM name="Local" value="z01-manual.html#12">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Условия, необходимые для поддержки команд &quot;Автозапуск&quot;,&quot;Проводник&quot; и &quot;Открыть&quot;">
+    <PARAM name="Local" value="z01-manual.html#req">
+    </OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Окно настроек CDSlow">
+   <PARAM name="Local" value="z01-manual.html#settings">
+   </OBJECT>
+  <UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Параметры интерфейса">
+    <PARAM name="Local" value="z01-manual.html#interface">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Короткие имена приводов&quot;">
+     <PARAM name="Local" value="z01-manual.html#13">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Отдельные кнопки извлечь/закрыть&quot;">
+     <PARAM name="Local" value="z01-manual.html#14">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Название привода над списком скоростей&quot;">
+     <PARAM name="Local" value="z01-manual.html#15">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Подменю для каждого привода&quot;">
+     <PARAM name="Local" value="z01-manual.html#16">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Пароль для извлечения диска&quot;">
+     <PARAM name="Local" value="z01-manual.html#17">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Показывать команду &quot;Открыть&quot;">
+     <PARAM name="Local" value="z01-manual.html#18">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Показывать команду &quot;Проводник&quot;">
+     <PARAM name="Local" value="z01-manual.html#19">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Показывать команду &quot;Автозапуск&quot;">
+     <PARAM name="Local" value="z01-manual.html#20">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Изменять цвет иконки при вставке диска&quot;">
+     <PARAM name="Local" value="z01-manual.html#21">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Изменять цвет иконки при открытом лотке&quot;">
+     <PARAM name="Local" value="z01-manual.html#22">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Системные параметры">
+    <PARAM name="Local" value="z01-manual.html#system">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Автозапуск дисков (все пользователи)&quot;">
+     <PARAM name="Local" value="z01-manual.html#23">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Автозапуск дисков (текущий пользователь)&quot;">
+     <PARAM name="Local" value="z01-manual.html#24">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Автовоспроизведение музыки&quot;">
+     <PARAM name="Local" value="z01-manual.html#25">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Разное">
+    <PARAM name="Local" value="z01-manual.html#misc">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Показывать неизвестные приводы&quot;">
+     <PARAM name="Local" value="z01-manual.html#26">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Автообновление содержимого дисков&quot;">
+     <PARAM name="Local" value="z01-manual.html#27">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Сохранять копию настроек в файл&quot;">
+     <PARAM name="Local" value="z01-manual.html#28">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Запуск">
+    <PARAM name="Local" value="z01-manual.html#29">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Автозагрузка программы&quot;">
+     <PARAM name="Local" value="z01-manual.html#30">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Выход после автозагрузки&quot;">
+     <PARAM name="Local" value="z01-manual.html#31">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Скрывать иконку&quot;">
+     <PARAM name="Local" value="z01-manual.html#32">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="&quot;Закрывать лотки приводов&quot;">
+     <PARAM name="Local" value="z01-manual.html#33">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Выключение">
+    <PARAM name="Local" value="z01-manual.html#34">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="&quot;Извлекать диски&quot;">
+     <PARAM name="Local" value="z01-manual.html#35">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="&quot;Закрывать лотки&quot;">
+     <PARAM name="Local" value="z01-manual.html#36">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="&quot;Показывать напоминание&quot;">
+     <PARAM name="Local" value="z01-manual.html#37">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Задержка (секунд):&quot;">
+     <PARAM name="Local" value="z01-manual.html#38">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Таймер">
+    <PARAM name="Local" value="z01-manual.html#timer">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="&quot;Включить таймер&quot;">
+     <PARAM name="Local" value="z01-manual.html#39">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Закрывать лотки через _ секунд&quot;">
+     <PARAM name="Local" value="z01-manual.html#40">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Метод доступа">
+    <PARAM name="Local" value="z01-manual.html#method">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Метод доступа &quot;SPTI&quot;">
+     <PARAM name="Local" value="z01-manual.html#method.spti">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Метод доступа &quot;ASPI&quot;">
+     <PARAM name="Local" value="z01-manual.html#method.aspi">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Отключить ASPI&quot;">
+     <PARAM name="Local" value="z01-manual.html#aspi.disable">
+     </OBJECT>
+   </UL>
+  </UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Окно настроек привода">
+   <PARAM name="Local" value="z01-manual.html#drive">
+   </OBJECT>
+  <UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Настройки привода">
+    <PARAM name="Local" value="z01-manual.html#drive.options">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Не управлять этим приводом&quot;">
+     <PARAM name="Local" value="z01-manual.html#43">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Поле &quot;Короткое имя&quot;">
+     <PARAM name="Local" value="z01-manual.html#short.name">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Группа опций &quot;Восстанавливать скорость&quot;">
+    <PARAM name="Local" value="z01-manual.html#restore.speed">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;При запуске CDSlow&quot;">
+     <PARAM name="Local" value="z01-manual.html#on.start">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;При выходе из спящего режима&quot;">
+     <PARAM name="Local" value="z01-manual.html#on.resume">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;При смене диска&quot;">
+     <PARAM name="Local" value="z01-manual.html#on.change">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;При закрытии лотка&quot;">
+     <PARAM name="Local" value="z01-manual.html#on.close">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;При воспроизведении аудиодисков&quot;">
+     <PARAM name="Local" value="z01-manual.html#when.audio">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Только при вставленном диске&quot;">
+     <PARAM name="Local" value="z01-manual.html#only.with.disk">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Независимо от текущей&quot;">
+     <PARAM name="Local" value="z01-manual.html#ignore.speed">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;По таймеру&quot;">
+     <PARAM name="Local" value="z01-manual.html#on.timer">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="&quot;После установки скорости прочесть данные с диска&quot;">
+     <PARAM name="Local" value="z01-manual.html#force.read">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Группа опций &quot;Горячие клавиши&quot;">
+    <PARAM name="Local" value="z01-manual.html#hotkeys">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Группа опций &quot;Тип диска&quot;">
+    <PARAM name="Local" value="z01-manual.html#disk.type">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Группа опций &quot;Метод установки скорости&quot;">
+    <PARAM name="Local" value="z01-manual.html#speed.method">
+    </OBJECT>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Кнопки группы &quot;Перебор скоростей&quot;">
+    <PARAM name="Local" value="z01-manual.html#scan">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="&quot;Быстрый&quot; перебор">
+     <PARAM name="Local" value="z01-manual.html#fast">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="&quot;Полный&quot; перебор">
+     <PARAM name="Local" value="z01-manual.html#full">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="&quot;Измерение&quot;">
+     <PARAM name="Local" value="z01-manual.html#measure">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Список скоростей">
+    <PARAM name="Local" value="z01-manual.html#speed.list">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="&quot;Скорость&quot;">
+     <PARAM name="Local" value="z01-manual.html#speed.edit">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Кнопка &quot;Добавить&quot;">
+     <PARAM name="Local" value="z01-manual.html#add">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Кнопка &quot;Удалить&quot;">
+     <PARAM name="Local" value="z01-manual.html#del">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Кнопка &quot;Удалить все&quot;">
+     <PARAM name="Local" value="z01-manual.html#del.all">
+     </OBJECT>
+   </UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Сервис">
+    <PARAM name="Local" value="z01-manual.html#service">
+    </OBJECT>
+   <UL>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Разбить меню скоростей на группы&quot;">
+     <PARAM name="Local" value="z01-manual.html#deep.menu">
+     </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+     <PARAM name="Name" value="Опция &quot;Запирать лоток при закрытии&quot;">
+     <PARAM name="Local" value="z01-manual.html#lock">
+     </OBJECT>
+   </UL>
+  </UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Командная строка">
+   <PARAM name="Local" value="z01-manual.html#cmdline">
+   </OBJECT>
+  <UL>
+   <LI><OBJECT type="text/sitemap">
+    <PARAM name="Name" value="Примеры команд">
+    <PARAM name="Local" value="z01-manual.html#cmd.examples">
+    </OBJECT>
+  </UL>
+ </UL>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="Параметры установки">
+  <PARAM name="Local" value="z02-installer.html">
+  </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="История версий CDSlow">
+  <PARAM name="Local" value="z03-changelog.html">
+  </OBJECT>
+ <UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 5.2 от 5.1">
+   <PARAM name="Local" value="z03-changelog.html#5.2">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 5.1 от 5.0">
+   <PARAM name="Local" value="z03-changelog.html#5.1">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 5.0 от 4.0">
+   <PARAM name="Local" value="z03-changelog.html#5.0">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 4.0 от 3.3">
+   <PARAM name="Local" value="z03-changelog.html#4.0">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 3.3 от 3.2">
+   <PARAM name="Local" value="z03-changelog.html#3.3">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 3.2 от 3.1">
+   <PARAM name="Local" value="z03-changelog.html#3.2">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 3.1 от 3.0">
+   <PARAM name="Local" value="z03-changelog.html#3.1">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 3.0 от 2.4">
+   <PARAM name="Local" value="z03-changelog.html#3.0">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 2.4 от 2.3">
+   <PARAM name="Local" value="z03-changelog.html#2.4">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 2.3 от 2.2">
+   <PARAM name="Local" value="z03-changelog.html#2.3">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 2.2 от 2.1">
+   <PARAM name="Local" value="z03-changelog.html#2.2">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 2.1 от 2.0">
+   <PARAM name="Local" value="z03-changelog.html#2.1">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 2.0 от 1.5">
+   <PARAM name="Local" value="z03-changelog.html#2.0">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 1.5 от 1.4">
+   <PARAM name="Local" value="z03-changelog.html#1.5">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 1.4 от 1.3">
+   <PARAM name="Local" value="z03-changelog.html#1.4">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 1.3 от 1.2">
+   <PARAM name="Local" value="z03-changelog.html#1.3">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 1.2 от 1.1">
+   <PARAM name="Local" value="z03-changelog.html#1.2">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Отличия версии 1.1 от 1.0">
+   <PARAM name="Local" value="z03-changelog.html#1.1">
+   </OBJECT>
+ </UL>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="Лицензии">
+  <PARAM name="Local" value="z04-licenses.html">
+  </OBJECT>
+ <UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Лицензия CDSlow">
+   <PARAM name="Local" value="z04-licenses.html#license.cdslow">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Лицензия на документацию CDSlow">
+   <PARAM name="Local" value="z04-licenses.html#license.doc">
+   </OBJECT>
+ </UL>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="Часто задаваемые вопросы о CDSlow">
+  <PARAM name="Local" value="z05-faq.html">
+  </OBJECT>
+ <UL>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="В окне &quot;Информация&quot; о приводе написано, что он не поддерживает установку скорости. Что нужно сделать, чтобы скорость можно было менять?">
+   <PARAM name="Local" value="z05-faq.html#01">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="В окне &quot;Информация&quot; о приводе написано, что он поддерживает определение и установку скорости, но в списке скоростей всего одна скорость (обычно максимальная). Как менять скорость?">
+   <PARAM name="Local" value="z05-faq.html#02">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="При определении и измерении скоростей программа показывает всего одну скорость, но при наведении курсора мыши на иконку там бывают и другие значения скоростей. Значит, скорость все-таки меняется?">
+   <PARAM name="Local" value="z05-faq.html#03">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="После переустановки Windows у меня пересталирегулироваться скорости, что делать?">
+   <PARAM name="Local" value="z05-faq.html#04">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="При работе под Windows 95/98/ME программа сообщает, что драйвер ASPI не установлен или поврежден, или не находит приводы. Что делать?">
+   <PARAM name="Local" value="z05-faq.html#05">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="А чем можно регулировать скорость CD привода под Linux?">
+   <PARAM name="Local" value="z05-faq.html#06">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="А под FreeBSD?">
+   <PARAM name="Local" value="z05-faq.html#07">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="А чем можно регулировать скорость под QNX, BeOS, MacOS (добавьте сами, что Вам еще нравится)?">
+   <PARAM name="Local" value="z05-faq.html#08">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Как управлять скоростью DVD привода в Linux(скорость регулируется только для CD дисков)?">
+   <PARAM name="Local" value="z05-faq.html#09">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="А где можно получить информацию о программированииCD/DVD-приводов?">
+   <PARAM name="Local" value="z05-faq.html#10">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Почему при воспроизведении аудио CD в Winamp (а может быть, и в других плеерах) никакие настройки заданной скорости в CDSlow не действуют?">
+   <PARAM name="Local" value="z05-faq.html#11">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Влияет-ли CDSlow на скорость записи дисков и может-ли вызывать ошибки в процессе записи?">
+   <PARAM name="Local" value="z05-faq.html#12">
+   </OBJECT>
+  <LI><OBJECT type="text/sitemap">
+   <PARAM name="Name" value="Для чтения некачественного диска в CDSlow была выбрана минимальная скорость. Теперь все диски читаются медленно, независимо от выбранной скорости, даже если программа на запущена. Что делать?">
+   <PARAM name="Local" value="z05-faq.html#13">
+   </OBJECT>
+ </UL>
+</UL>
+
+</BODY>
+</HTML>

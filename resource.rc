@@ -1,0 +1,39 @@
+/*
+Copyright 2000-2019 Vadim Druzhin <cdslow@mail.ru>
+
+You can redistribute and/or modify this file under the terms
+of the GNU General Public License version 3 or any later version.
+
+See file COPYING.txt or visit <http://www.gnu.org/licenses/>.
+*/
+
+LANGUAGE 0,0
+
+BitmapCSpeed BITMAP "icons/cspeed.bmp"
+BitmapEject  BITMAP "icons/ejects.bmp"
+BitmapClose  BITMAP "icons/closes.bmp"
+
+IconApp         ICON "icons/icon_app.ico"
+
+IconTask16      ICON "icons/task16.ico"
+IconTask16Red   ICON "icons/task_red16.ico"
+IconTask16Green ICON "icons/task_green16.ico"
+IconQuestion16  ICON "icons/question16.ico"
+IconError16     ICON "icons/error16.ico"
+IconWait16      ICON "icons/wait16.ico"
+
+IconTaskXP      ICON "icons/taskxp.ico"
+IconTaskXPRed   ICON "icons/task_redxp.ico"
+IconTaskXPGreen ICON "icons/task_greenxp.ico"
+IconQuestionXP  ICON "icons/questionxp.ico"
+IconErrorXP     ICON "icons/errorxp.ico"
+IconWaitXP      ICON "icons/waitxp.ico"
+
+IconWinLogo     ICON "icons/winlogo16.ico"
+
+#define CREATEPROCESS_MANIFEST_RESOURCE_ID 1
+#define RT_MANIFEST 24
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "cdslow.exe.manifest"
+
+#include "src/msg_ids.h"
+#include "msg_txt.rc"
